@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "App"
-    s.version      = "1.0.1"
+    s.version      = "1.0.4"
     s.summary      = "App: app"
     s.description  = "Demo repository for framework distribution."
     s.homepage     = "http://github.com"
