@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		vyGp6PvFo4RvsFtPoIWeCReyIC8=
+		VedRmI8DDSIXlf9JfjqwbY6HAA4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		93LMyJ9KCwI+twIbwZEh28pRhmg=
+		I5TZ44ZaP0ypu40A1KLvkSNh/88=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +30,11 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		o0xCEDsIbjHeG8+PsszWRtDkzxA=
+		xxf1IHxyLdBCvkAFFpFhWNLFA5o=
+		</data>
+		<key>flutter_assets/packages/wakelock_web/assets/no_sleep.js</key>
+		<data>
+		4X7PZ95hkgUE15GU2+5c1VKgHP0=
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -47,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o=
+			oCPoB77j1lNhwfcxpg0XKfZykjOGbXSbAuKPfFTDzoM=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -61,7 +65,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sL1bBpxkt3VHXB6cnu3/qKMvJ0XcvPjThWsYAcwFnEM=
+			wF+HmwRDnDHc+XYPRv6A0iOH44uoOiHlsUQTCr8BTJ0=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -82,7 +86,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5RQaEvWBY4gqKaFuqOVFcGziDql4nd49OyC7uwi0Z5w=
+			y5e/JzmLfBr28IFno8OpkahN7n+AHGWv6r59hzNF6WM=
+			</data>
+		</dict>
+		<key>flutter_assets/packages/wakelock_web/assets/no_sleep.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3OTu8LGXtkCtaqqyIo7h7n3M+L1ta13lSE3RvRZDCng=
 			</data>
 		</dict>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
